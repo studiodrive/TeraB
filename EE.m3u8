@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:-1  group-title="TeraBox", EP01
+https://www.terabox.com/api/streaming?path=%2FSeries%2FAmazon%2FThe%20Power%2FThe%20Power%20(S01E01).mkv&app_id=250528&clienttype=0&type=M3U8_AUTO_720&vip=0
